@@ -1,7 +1,7 @@
-Inside this repository, create a README.md file
-In the README.md file, write briefly on the following topics:
-Project Overview:
-Provide a brief description of the project, its purpose, and goals. Explain what problem the project aims to solve or what value it brings to users.
+### Project Overview:
+This is my personal portfolio aimed at showcasing my skills and my ability to potential employers.
+It will help me  solve the problem of having to tell a recruiter more about me as it will have all that is needed.
+
 Features and Functionality:
 List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
 Technologies Used:
