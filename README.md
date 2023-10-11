@@ -14,6 +14,7 @@ The technologies, frameworks, and languages used in the project are as listed:
 - CSS.
 - JavaScript.
 - Fontawesome.
+  
 Screenshots or Demo:
 Include screenshots or a link to a live demo if available. Visual representations can help readers understand the project’s appearance and functionality.
 
