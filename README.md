@@ -27,13 +27,6 @@ I plan to add three-d function in my portfolio and a live chat feature.
 
 #### Contact information
 
-<<<<<<< HEAD
-
-- **Name:**  Victor Omondi Onyango.
-- **X(TWitter)** @Afrikaan_dream
-- **Email** <vitomscatenathe1@gmail.com>
-**Whatsapp** [Whatsapp](https://wa.me/254799802335)
-=======
 - **Name:**
   
     Victor Omondi Onyango.
@@ -49,5 +42,3 @@ I plan to add three-d function in my portfolio and a live chat feature.
 - **Whatsapp:**
   
    [Whatsapp](https://wa.me/254799802335)
-
->>>>>>> 6d2cfa34dd148d517cb284097d743cd1cc53ffa0
