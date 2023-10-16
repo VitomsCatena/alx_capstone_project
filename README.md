@@ -3,7 +3,8 @@
 This is my personal portfolio aimed at showcasing my skills and my ability to potential employers.
 It will help me  solve the problem of having to tell a recruiter more about me as it will have all that is needed.
 
-## Features and Functionality:
+## Features and Functionality
+
 List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
 
 ## Technologies Used
@@ -15,7 +16,8 @@ The technologies, frameworks, and languages used in the project are as listed:
 - JavaScript.
 - Fontawesome.
   
-## Screenshots or Demo:
+## Screenshots or Demo
+
 Include screenshots or a link to a live demo if available. Visual representations can help readers understand the project’s appearance and functionality.
 
 ### Roadmap and future enhancements
@@ -26,15 +28,16 @@ I plan to add three-d function in my portfolio and a live chat feature.
 #### Contact information
 
 <<<<<<< HEAD
+
 - **Name:**  Victor Omondi Onyango.
 - **X(TWitter)** @Afrikaan_dream
 - **Email** <vitomscatenathe1@gmail.com>
 **Whatsapp** [Whatsapp](https://wa.me/254799802335)
 =======
--  **Name:**
+- **Name:**
   
     Victor Omondi Onyango.
-   
+
 - **X(TWitter):**
   
    @Afrikaan_dream
@@ -46,4 +49,5 @@ I plan to add three-d function in my portfolio and a live chat feature.
 - **Whatsapp:**
   
    [Whatsapp](https://wa.me/254799802335)
+
 >>>>>>> 6d2cfa34dd148d517cb284097d743cd1cc53ffa0
