@@ -15,7 +15,7 @@ The technologies, frameworks, and languages used in the project are as listed:
 - CSS.
 - JavaScript.
 
-  
+## languages to be added in future :
 ## Screenshots or Visual representations 
 
 [livedemo](https://vitomscatena.github.io/alx_capstone_project/)
