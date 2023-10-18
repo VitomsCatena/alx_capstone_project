@@ -16,6 +16,9 @@ The technologies, frameworks, and languages used in the project are as listed:
 - JavaScript.
 
 ## languages to be added in future :
+- PHP
+- python
+- flask
 ## Screenshots or Visual representations 
 
 [livedemo](https://vitomscatena.github.io/alx_capstone_project/)
