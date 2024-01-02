@@ -1,4 +1,4 @@
-# project overview
+# project overview.
 
 This is my personal portfolio aimed at showcasing my skills and my ability to potential employers.
 It will help me  solve the problem of having to tell a recruiter more about me as it will have all that is needed.
