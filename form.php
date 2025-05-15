@@ -8,6 +8,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 //create email message:
+    
 $emailMessage = "Name: $name\n";
 $emailMessage .= "Email: $email\n";
 $emailMessage .= "Phone Number: $phone\n";
