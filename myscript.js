@@ -13,6 +13,7 @@ window.onscroll = () =>{
   scrollIndicator();
 }
 
+
 function scrollIndicator(){
 
   let maxHeight = window.document.body.scrollHeight - window.innerHeight;
